@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotosCaching", "PhotosCaching\PhotosCaching.csproj", "{6CF95AC9-CD4D-4CB9-BAF0-EEDA95E5EE5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicturesCaching", "PicturesCaching\PicturesCaching.csproj", "{85DDD2E7-BFC9-4130-B1BE-25BBAE15EF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF95AC9-CD4D-4CB9-BAF0-EEDA95E5EE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF95AC9-CD4D-4CB9-BAF0-EEDA95E5EE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF95AC9-CD4D-4CB9-BAF0-EEDA95E5EE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF95AC9-CD4D-4CB9-BAF0-EEDA95E5EE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DDD2E7-BFC9-4130-B1BE-25BBAE15EF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DDD2E7-BFC9-4130-B1BE-25BBAE15EF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DDD2E7-BFC9-4130-B1BE-25BBAE15EF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DDD2E7-BFC9-4130-B1BE-25BBAE15EF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBB516C-BD75-48D8-BB76-858DE3C52B68}
+	EndGlobalSection
+EndGlobal
